@@ -1,3 +1,5 @@
+console.log("Javascript practise");
+
 // in-line comment
 
 /* This is a 
